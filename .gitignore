@@ -1,0 +1,46 @@
+# Laravel Backend
+/laravel-pos-api/node_modules
+/laravel-pos-api/public/hot
+/laravel-pos-api/public/storage
+/laravel-pos-api/storage/*.key
+/laravel-pos-api/vendor
+/laravel-pos-api/.env
+/laravel-pos-api/.env.backup
+/laravel-pos-api/.phpunit.result.cache
+/laravel-pos-api/docker-compose.override.yml
+/laravel-pos-api/Homestead.json
+/laravel-pos-api/Homestead.yaml
+/laravel-pos-api/npm-debug.log
+/laravel-pos-api/yarn-error.log
+/laravel-pos-api/.idea
+/laravel-pos-api/.vscode
+/laravel-pos-api/.vagrant
+
+# Java Client
+/pos-client/target/
+/pos-client/.idea/
+/pos-client/.settings/
+/pos-client/.project
+/pos-client/.classpath
+/pos-client/*.iml
+/pos-client/.vscode/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor folders
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
